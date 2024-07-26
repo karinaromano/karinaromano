@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karinaromano (Brazilian living in the UK)
+- 👋 Hi, I’m Karina Romano, a Brazilian living in the UK.
 - 👩‍💻 I’m currently learning AI-driven software Engineering at SkillsCity BootCamp, Manchester, UK.
 - 📫 How to reach me: Linkedin 🖱️(https://www.linkedin.com/in/karinaromano/)
 - 🚺 Pronouns: Her/She
