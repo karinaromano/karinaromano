@@ -1,8 +1,9 @@
-###👋 Hi, I’m Karina Romano, a Brazilian living in the UK.
+- 👋 Hi, I’m Karina Romano, a Brazilian living in the UK.
 - 👩‍💻 I’m currently learning AI-driven software Engineering at SkillsCity BootCamp, Manchester, UK.
 - 📫 How to reach me:
   <div> 
-  <a href="https://app.netlify.com/teams/karinaromano/sites target="_blank"><img src= "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white target="_blank">
+  <a href="https://www.linkedin.com/in/karinaromano/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://app.netlify.com/teams/karinaromano/sites" target="_blank"><img src= "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white target="_blank">
   </div>
 - ⚡ Fun fact: 🎾I am considered a reasonable tennis player
 
