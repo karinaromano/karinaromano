@@ -16,7 +16,13 @@
   </a>
 </div>
 
-
+  ##
+  
+<div>
+  
+<img align="center" alt="Karina-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
+</div>
 <!---
 karinaromano/karinaromano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
