@@ -12,15 +12,18 @@
 
 <div>
   <a href="https://github.com/karinaromano/karinaromano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaromano&layout=compact&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaromano&layout=compact&langs_count=16&theme=dark" />        
   </a>
 </div>
 
   ##
   
 <div>
-  
+<img align="center" alt="Karina-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="Karina-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="Karina-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+          
           
 </div>
 <!---
