@@ -2,7 +2,8 @@
 - 👩‍💻 I’m currently learning AI-driven software Engineering at SkillsCity BootCamp, Manchester, UK.
 - 📫 How to reach me:
   <div> 
-  <a href="mailto:karinadevuk@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "mailto:karinadevuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/<+4407944139767>"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karinaromano/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://app.netlify.com/teams/karinaromano/sites" target="_blank"><img src= "https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
    
