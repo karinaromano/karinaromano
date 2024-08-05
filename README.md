@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Karina Romano**, a Brazilian living in the UK.
-- 👩‍💻 I’m currently learning AI-driven software Engineering at SkillsCity BootCamp, Manchester, UK.
+- 👩‍💻 I’m currently learning AI-driven Software Engineering at SkillsCity BootCamp, Manchester, UK.
 - ⚡ Fun fact: 🎾I am considered a reasonable tennis player
 - 📫 How to reach me:
 <div> 
